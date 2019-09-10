@@ -1,3 +1,15 @@
 .pokecard {
-  border: 2px solid red;
+  width: 250px;
+  padding: 10px;
+  margin: 1rem;
+  box-shadow: 7px 10px 12px -5px rgba(54, 3, 3, 0.5);
+  text-align: center;
+  background-color: white;
+}
+
+.pokecardTitle {
+}
+
+.pokecardData {
+  font-size: 80%;
 }
